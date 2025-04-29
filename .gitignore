@@ -3,3 +3,4 @@
 .devcontainer/
 .codesandbox/
 built
+./package-lock.json
